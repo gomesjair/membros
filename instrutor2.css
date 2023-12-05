@@ -71,6 +71,7 @@ html{
 }
 
 .image{
+    border: 6px solid white;
     margin-left: 60%;
     position: absolute;
 }
